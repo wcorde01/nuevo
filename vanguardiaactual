@@ -1,0 +1,234 @@
+<!DOCTYPE HTML>
+<!--
+	Bienvenidos a 93.5 La Gran FM
+	www.lagranfm935.com.ve
+	Design by: Jesús Aponte	| @jesusfcoaponte
+-->
+<html>
+	<head lang="es">
+		<title>Grupo Radios Oriente</title>
+		<link rel="shortcut icon" type="image/x-icon" href="images/Favicon935.ico">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+		<link rel="stylesheet" href="assets/css/main.css"/>
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css"/></noscript>
+		<!--Meta--->
+		<meta name="description" content="93.5 La Gran FM de Monagas.">
+		<meta property="og:title" content="93.5 La Gran FM">
+		<meta property="og:image" content="http://#">
+		<meta property="og:site_name" content="93.5 La Gran FM">
+		<meta property="og:description" content="93.5 La Gran FM la que mas se escucha.">
+		<meta content="yes" name="apple-mobile-web-app-capable">
+		<meta name="keywords" content="radio, online, streaming, musica, venezuela, monagas, maturín, cumaná, maturin, online, oldies, recuerdos, salsa, nuevo, retro, merengue, reguetton, varios, 24 horas, en vivo, la que mas se escucha, audio, player, cafeexpress, dinamica, boomerang, discomix. deotroplaneta, Instagram, Facebook, youtube.">
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+				<!-- Header -->
+				<div id="header">
+					<!-- Inner -->
+					<div class="inner">
+						<header>
+							<h1><a href="index.html" id="logo">Grupo Radios Oriente</a></h1>
+							<br/>
+							<p></p>
+						</header>
+					</div>
+					
+					<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="javascript:ventanaSecundaria('lagranfm935.html')">93.5 La Gran FM</a></li>
+							<li><a href="javascript:ventanaSecundaria('radiosol891.html')">Radio Sol 89.1 FM</a></li>
+							<li><a href="javascript:ventanaSecundaria('dinamik899.html')">Dinamik 89.9 FM</a></li>
+							<li><a href="javascript:ventanaSecundaria('cantaclaro.html')">CantaClaro 107.1 FM</a></li>
+							<li><a href="javascript:ventanaSecundaria('#')">Big Party 88.9 FM</a></li>
+						</ul>
+					</nav>
+				</div>
+				<!-- Header -->
+
+				<!-- Publicidad -->
+				<div>
+					<article id="main" class="container special">
+						<a href="https://api.whatsapp.com/send?phone=584269860979&text=Hola.%20quiero%20solicitar%20un%20presupuesto.%20Estoy%20escuchando%20por%20www.lagranfm935.com.ve" target="_blank" class="image featured"><img src="images/bannerpublicidad1.jpg" alt=""/></a>
+					</article>
+				</div>
+				<!-- Publicidad -->
+
+				<!-- Carousel 93.5 La Gran FM -->
+				<section class="carousel">
+					<div>
+						<header>
+							<center>
+							<h2>Programación 93.5 La Gran FM</h2>
+							</center>
+						</header>
+					</div>
+					<div class="reel">
+						<article>
+							<a href="#" class="image featured"><img src="images/cafeexpress.jpg" alt=""/></a>
+							<header>
+								<h3><a href="#">Café <br>
+								Express</a></h3>
+							</header>
+							<p>Con Kharen Rodríguez<br> Lunes a viernes<br> 8 am a 10 am.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="images/tusmananas.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Tus mañanas sin<br>Límites</a></h3>
+							</header>
+							<p>Con Diana Tenia<br> Lunes a viernes<br> 10 am a 12 M.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="images/boomerang.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Boomerang <br>9.3.5</a></h3>
+							</header>
+							<p>Con Ángel Gaínza<br> Lunes a viernes<br> 12 M a 2 pm.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="images/dinamica.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Dinámica <br>Emergente</a></h3>
+							</header>
+							<p>Con Paola Martínez<br> Lunes a viernes<br> 2 pm a 4 pm.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="images/encuentro.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Encuentro <br>Deportivo</a></h3>
+							</header>
+							<p>Con Henry Martínez Lara<br> Lunes a viernes<br> 4 pm a 5 pm.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="images/elarca.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">El Arca de<br>Nohelia</a></h3>
+							</header>
+							<p>Con Nohelia Martínez<br> Lunes a viernes<br> 5 pm a 7 pm.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="images/discomix.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Disco<br>Mix</a></h3>
+							</header>
+							<p>Con William Márquez<br> Lunes a viernes<br> 7 pm a 9 pm.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="images/deotroplaneta.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">De otro<br>Planeta</a></h3>
+							</header>
+							<p>Con Jhonny Rivas<br>Sábados<br> 9 am a 12 M.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="images/encuentro1.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Encuentro<br>Deportivo</a></h3>
+							</header>
+							<p>Con Henry Martínez Lara<br>Sábados<br> 12 M a 2 pm.</p>
+						</article>
+					</div>
+				</section>
+				<!-- Carousel 93.5 La Gran FM -->
+
+				<!-- Banner -->
+				<section id="banner">
+					<header>
+						<h2><strong>Quiénes somos</strong>.</h2>
+						<p>
+							Somos el <a href="#">Grupo Radios Oriente</a> conformado por 5 emisoras en el oriente del país: 93.5 La Gran FM. Primera emisora comercial de frecuencia modulada en la historia radial del estado Monagas.
+						</p>
+					</header>
+					<header>
+							<h2>Emisoras del Grupo Radios Oriente</h2>
+							<p></p>
+						</header>
+						<div class="row">
+							<article class="col-4 col-12-mobile special">
+								<a href="javascript:ventanaSecundaria('lagranfm935.html')" class="image featured"><img src="images/bannerlagranfm.jpg" alt="" /></a>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="javascript:ventanaSecundaria('dinamik899.html')" class="image featured"><img src="images/bannerdinamik.jpg" alt="" /></a>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="javascript:ventanaSecundaria('radiosol891.html')" class="image featured"><img src="images/bannerradiosol.jpg" alt="" /></a>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="javascript:ventanaSecundaria('cantaclaro.html')" class="image featured"><img src="images/bannercantaclaro.jpg" alt="" /></a>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="javascript:ventanaSecundaria('#')" target="_blank" class="image featured"><img src="images/bannerbigparty.jpg" alt="" /></a>
+							</article>
+							<article class="col-4 col-12-mobile special">
+								<a href="https://api.whatsapp.com/send?phone=584269860979&text=Hola.%20quiero%20solicitar%20un%20presupuesto.%20Estoy%20escuchando%20por%20www.lagranfm935.com.ve" target="_blank" class="image featured"><img src="images/bannerpublicidad.jpg" alt="" /></a>
+							</article>
+						</div>
+				</section>
+				<!-- Banner -->
+
+				<!-- Publicidad -->
+				<div>
+					<article id="main" class="container special">
+						<a href="https://api.whatsapp.com/send?phone=584269860979&text=Hola.%20quiero%20solicitar%20un%20presupuesto.%20Estoy%20escuchando%20por%20www.lagranfm935.com.ve" target="_blank" class="image featured"><img src="images/bannerpublicidad1.jpg" alt=""/></a>
+					</article>
+				</div>
+				<!-- Publicidad -->
+				
+				<!-- Footer -->
+				<div id="footer">
+					<!-- Contact -->
+						<section class="contact">
+							<header>
+								<h3>¿Qué encontraras en el Grupo Radios Oriente?</h3>
+							</header>
+								<p>La más variada programación musical  de todos los días,  recorre los éxitos y géneros musicales de ayer, hoy y siempre, combinado con los acertados comentarios de los talentosos productores. Quienes hacen día a día que el oriente de país se mueva.</p>
+								<ul class="icons">
+									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://www.facebook.com/lagranfm935/" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="https://www.instagram.com/lagranfm935/" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+								</ul>
+						</section>
+					<!-- Contact -->
+					<!-- Copyright -->
+						<div class="copyright">
+							<ul class="menu">
+								<li>&copy; Copyright 93.5 La Gran FM. 2021 Todos los derechos reservados.</li><li>Design by: <a href="#">Jesús Aponte</a></li>
+							</ul>
+						</div>
+					<!-- Copyright -->
+				</div>
+				<!-- Footer -->
+
+				</div>
+				</div>
+				</div>
+				</div>
+		<!-- Scripts -->
+			<script> function ventanaSecundaria (URL){window.open(URL,"ventana1","width=360,height=450,scrollbars=NO")}</script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+		<!-- Scripts -->
+	</body>
+</html>
+<!--
+	Gracias por visitar 93.5 La Gran FM
+	www.lagranfm935.com.ve
+	Design by: Jesús Aponte	| @jesusfcoaponte
+-->
